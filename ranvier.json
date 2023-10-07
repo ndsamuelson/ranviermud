@@ -17,6 +17,7 @@
     "vendor-npcs",
     "player-groups",
     "progressive-respawn",
+    "perikaryon",
     "telnet-networking",
     "websocket-networking"
   ],
